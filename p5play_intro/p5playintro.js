@@ -34,6 +34,7 @@ function setup() {
   //  box.w = 50;
   //  box.h  = 75;
   //  box.color = 'skyblue';
+  
 }
 
 function draw() {
