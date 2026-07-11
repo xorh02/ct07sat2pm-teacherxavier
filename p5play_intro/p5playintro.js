@@ -36,7 +36,7 @@ function setup() {
   //  box.color = 'skyblue';
 
 
-  //create a ellipse -> ellipse(w)
+  //create a ellipse -> ellipse(x,y,width,height)
 }
 
 function draw() {
