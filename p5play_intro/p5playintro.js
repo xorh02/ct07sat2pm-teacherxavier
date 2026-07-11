@@ -37,6 +37,8 @@ function setup() {
 
 
   //create a ellipse -> ellipse(x,y,width,height)
+  //create a triangle -> triangle(x1,y1,x2,y2,x3,y3);
+  
 }
 
 function draw() {
