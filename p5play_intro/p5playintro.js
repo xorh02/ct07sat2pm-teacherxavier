@@ -28,7 +28,7 @@ function setup() {
    ball.color = 'red';
 
    //create a rect 
-   
+   box = new Sprtie()
 }
 
 function draw() {
