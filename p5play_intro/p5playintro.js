@@ -34,7 +34,9 @@ function setup() {
   //  box.w = 50;
   //  box.h  = 75;
   //  box.color = 'skyblue';
-  
+
+
+  //create a ellipse -> ellipse(w)
 }
 
 function draw() {
