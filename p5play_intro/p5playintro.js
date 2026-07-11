@@ -29,8 +29,11 @@ function setup() {
 
    //create a rect 
    box = new Sprite();
-   box.x
-   box
+   box.x = 100
+   box.y = 100
+   box.w = 50
+   box.h  = 75
+   
 }
 
 function draw() {
