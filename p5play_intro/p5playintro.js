@@ -10,6 +10,7 @@ function setup() {
 
    //give it color
     fill("skyblue");
+    
    //how to create a circle -> circle(x,y,diameter);
     circle(30,30,50);
 
