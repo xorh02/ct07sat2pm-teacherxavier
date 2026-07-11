@@ -5,10 +5,13 @@ function setup() {
 
   // Basic shape testing
   // write your codes here
-  ball = new Sprite();
+   ball = new Sprite();
   // End Basic shape testing
 
    //how to create a circle -> circle(x,y,diameter);
+    
+
+
    // Create a bouncing ball sprite
    // write your codes here
    
