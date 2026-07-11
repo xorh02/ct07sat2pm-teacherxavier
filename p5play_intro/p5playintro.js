@@ -9,7 +9,7 @@ function setup() {
   // End Basic shape testing
 
    //how to create a circle -> circle(x,y,diameter);
-    
+    circle(30,30,)
 
 
    // Create a bouncing ball sprite
