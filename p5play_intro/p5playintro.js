@@ -23,7 +23,8 @@ function setup() {
    // write your codes here
    ball = new Sprite();
    ball.x = 30;
-   ball.y
+   ball.y =30;
+   ball
 }
 
 function draw() {
