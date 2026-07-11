@@ -11,29 +11,29 @@ function setup() {
   // End Basic shape testing
 
    //give it color
-    fill("skyblue");
+  //   fill("skyblue");
 
-   //how to create a circle -> circle(x,y,diameter);
-    circle(30,30,50);
+  //  //how to create a circle -> circle(x,y,diameter);
+  //   circle(30,30,50);
 
-    //how to create a rectangle -> rect(x,y,width,height);
-    rect(50,50,100,200);
+  //   //how to create a rectangle -> rect(x,y,width,height);
+  //   rect(50,50,100,200);
 
-   // Create a bouncing ball sprite
-   // write your codes here
-   ball = new Sprite();
-   ball.x = 360;
-   ball.y =30;
-   ball.diameter =40;
-   ball.color = 'red';
+  //  // Create a bouncing ball sprite
+  //  // write your codes here
+  //  ball = new Sprite();
+  //  ball.x = 360;
+  //  ball.y =30;
+  //  ball.diameter =40;
+  //  ball.color = 'red';
   
-   //create a rect 
-   box = new Sprite();
-   box.x = 100;
-   box.y = 100
-   box.w = 50;
-   box.h  = 75;
-   box.color = 'skyblue';
+  //  //create a rect 
+  //  box = new Sprite();
+  //  box.x = 100;
+  //  box.y = 100
+  //  box.w = 50;
+  //  box.h  = 75;
+  //  box.color = 'skyblue';
 }
 
 function draw() {
