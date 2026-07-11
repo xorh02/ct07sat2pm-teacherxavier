@@ -13,7 +13,7 @@ function setup() {
    //how to create a circle -> circle(x,y,diameter);
     circle(30,30,50);
 
-    //how to create a rectangle -> rect(x,y,w,h);
+    //how to create a rectangle -> rect(x,y,width,height);
 
 
    // Create a bouncing ball sprite
