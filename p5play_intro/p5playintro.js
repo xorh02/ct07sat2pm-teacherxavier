@@ -7,7 +7,7 @@ function setup() {
 
   // Basic shape testing
   // write your codes here
-   ball = new Sprite();
+
   // End Basic shape testing
 
    //give it color
@@ -21,7 +21,7 @@ function setup() {
 
    // Create a bouncing ball sprite
    // write your codes here
-   
+   ball = new Sprite();
 }
 
 function draw() {
