@@ -26,7 +26,7 @@ function setup() {
    ball.y =30;
    ball.diameter =40;
    ball.color = 'red';
-   ball.physics = DYNAMIC; 
+  
    //create a rect 
    box = new Sprite();
    box.x = 100;
