@@ -28,6 +28,7 @@ function setup() {
    ball.color = 'red';
 
    //create a rect 
+   
 }
 
 function draw() {
