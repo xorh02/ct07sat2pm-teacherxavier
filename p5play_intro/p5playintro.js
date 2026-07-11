@@ -8,8 +8,10 @@ function setup() {
    ball = new Sprite();
   // End Basic shape testing
 
+   //give it color
+   
    //how to create a circle -> circle(x,y,diameter);
-    circle(30,30,)
+    circle(30,30,50);
 
 
    // Create a bouncing ball sprite
