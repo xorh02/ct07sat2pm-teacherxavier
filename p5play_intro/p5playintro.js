@@ -13,6 +13,8 @@ function setup() {
    //how to create a circle -> circle(x,y,diameter);
     circle(30,30,50);
 
+    //jpw tp
+
 
    // Create a bouncing ball sprite
    // write your codes here
