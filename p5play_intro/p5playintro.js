@@ -29,11 +29,11 @@ function setup() {
 
    //create a rect 
    box = new Sprite();
-   box.x = 100
+   box.x = 100;
    box.y = 100
-   box.w = 50
-   box.h  = 75
-   
+   box.w = 50;
+   box.h  = 75;
+   box.color = 'skyblue'
 }
 
 function draw() {
