@@ -32,7 +32,7 @@ function setup() {
   text("Sum of first ten even numbers is: "+sum,300,225);
 
   // --- Exercise: Age category classification ---
-  // write your codes here
+  // write your codes here how to do if else if else statement
   // if(condition){
   //   action
   // }else if(condition){
