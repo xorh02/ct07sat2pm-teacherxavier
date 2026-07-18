@@ -28,6 +28,7 @@ function setup() {
       sum += i;
     }
   }
+  console.log()
 
 
 
