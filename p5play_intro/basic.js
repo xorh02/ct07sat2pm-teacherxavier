@@ -1,7 +1,7 @@
 //to declare a variable
 let base =10;
-
-
+let height = 5;
+let area;
 function setup() {
   //create ur canvas 800 x400
   new Canvas(800,400);
