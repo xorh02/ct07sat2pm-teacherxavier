@@ -28,7 +28,7 @@ function setup() {
       sum += i;
     }
   }
-  console.log()
+  console.log(,sum)
 
 
 
