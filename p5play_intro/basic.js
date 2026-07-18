@@ -1,4 +1,5 @@
-
+//to declare a variable
+let ball ;
 
 
 function setup() {
