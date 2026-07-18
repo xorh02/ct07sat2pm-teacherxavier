@@ -1,6 +1,7 @@
 function setup() {
   // write your codes here
-
+  // to print
+  console.log()
   // --- Exercise: Area of Triangle ---
   // write your codes here
   
