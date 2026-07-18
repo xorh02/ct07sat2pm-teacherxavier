@@ -13,8 +13,8 @@ function setup() {
   // --- Exercise: Area of Triangle ---
   // write your codes here
   area = base *height;
-  console.log(,area);
-
+  console.log("The area of the triangle is :",area);
+  text
   // --- Exercise: Sum of first 10 even numbers ---
   // write your codes here
 
