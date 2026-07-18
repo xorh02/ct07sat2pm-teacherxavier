@@ -52,6 +52,7 @@ function setup() {
   // while(condition){
   //    action 
   // }
+  // count++ is the same as count = count + 1
 
 
 
