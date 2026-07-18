@@ -34,8 +34,9 @@ function setup() {
   // --- Exercise: Age category classification ---
   // write your codes here
   // if(condition){
-  // 
+  //   action
   // }else if(condition){
+  //    action
   // }
 
 
