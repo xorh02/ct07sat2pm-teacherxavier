@@ -69,7 +69,7 @@ function setup() {
   groceries.splice(1,1,"kaya");
   console.log(groceries);
   for(let i=0;i<groceries.length();i++){
-    
+    console.log()
   }
 }
 
