@@ -24,7 +24,9 @@ function setup() {
   // for(let i=0; i<5 ;i++){
 
   // }  
-  let count
+  let count=0;
+  let sum=0;
+  for(let i=0;i<=20;++i)
 
 
 
