@@ -57,7 +57,7 @@ function setup() {
   let count =19;
   while(count!=1){
     console.log(count);
-    --c
+    count -=2;
   }
 
 
