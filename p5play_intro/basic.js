@@ -29,10 +29,7 @@ function setup() {
     }
   }
   console.log("Sum of first ten even numbers is: ",sum);
-  text("Sum of first ten even numbers is:"+sum,300,225);
-
-
-
+  text("Sum of first ten even numbers is: "+sum,300,225);
 
   // --- Exercise: Age category classification ---
   // write your codes here
