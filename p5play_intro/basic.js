@@ -62,7 +62,8 @@ function setup() {
  
   // --- Exercise: Array operations (groceries) ---
   // write your codes here
-  let groceries = []
+  let groceries = ["apple","bread","milk"];
+  
 }
 
 //define draw function
