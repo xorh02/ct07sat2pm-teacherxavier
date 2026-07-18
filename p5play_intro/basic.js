@@ -28,8 +28,8 @@ function setup() {
       sum += i;
     }
   }
-  console.log("Sum of first ten even numbers",sum);
-  text("Sum of first ten even numbers is"+sum,300,225);
+  console.log("Sum of first ten even numbers is: ",sum);
+  text("Sum of first ten even numbers is:"+sum,300,225);
 
 
 
