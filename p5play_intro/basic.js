@@ -6,6 +6,7 @@ function setup() {
   //create ur canvas 800 x400
   new Canvas(800,400);
   background(220);
+  textSize(16);
   // write your codes here
   // to print -> console.log("something");
 
