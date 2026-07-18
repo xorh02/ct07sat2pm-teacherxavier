@@ -16,6 +16,8 @@ function setup() {
   console.log("The area of the triangle is :",area);
   //text(what u wan to print , x position of where u wan it to be, y position of where u wan it to be)
   text("The area of the triangle is:" + area,300,200);
+
+  
   // --- Exercise: Sum of first 10 even numbers ---
   // write your codes here
 
