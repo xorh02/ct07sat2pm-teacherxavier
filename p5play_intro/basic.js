@@ -38,6 +38,8 @@ function setup() {
   // }else if(condition){
   //    action
   // }else { action}
+  let age =10;
+  if(age<=9)
 
 
   // --- Exercise: Display odd numbers backward using while loop ---
