@@ -60,11 +60,9 @@ function setup() {
     count -=2;
   }
  
-
-
-
   // --- Exercise: Array operations (groceries) ---
   // write your codes here
+  let groceries = []
 }
 
 //define draw function
