@@ -54,6 +54,8 @@ function setup() {
   // }
   // count++ is the same as count = count + 1
   
+  let count =19;
+
 
 
 
