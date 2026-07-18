@@ -12,9 +12,9 @@ function setup() {
 
   // --- Exercise: Area of Triangle ---
   // write your codes here
-  area = base *height;
+  area = 0.5 * base *height;
   console.log("The area of the triangle is :",area);
-  text(,area,400,200);
+  text("The area of the triangle is:",area,400,200);
   // --- Exercise: Sum of first 10 even numbers ---
   // write your codes here
 
