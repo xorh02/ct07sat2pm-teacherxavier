@@ -68,6 +68,9 @@ function setup() {
   groceries.shift();
   groceries.splice(1,1,"kaya");
   console.log(groceries);
+  for(let i=0;i<groceries.length();i++){
+    
+  }
 }
 
 //define draw function
