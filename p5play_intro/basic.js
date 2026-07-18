@@ -19,3 +19,6 @@ function setup() {
 }
 
 //define draw function
+function draw(){
+  
+}
