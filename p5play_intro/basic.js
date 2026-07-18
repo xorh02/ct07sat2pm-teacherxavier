@@ -37,7 +37,7 @@ function setup() {
   //   action
   // }else if(condition){
   //    action
-  // }
+  // }else { action}
 
 
   // --- Exercise: Display odd numbers backward using while loop ---
