@@ -34,7 +34,9 @@ function setup() {
   // --- Exercise: Age category classification ---
   // write your codes here
   // if(condition){
-  //}
+  // 
+  // }else if(condition){
+  // }
 
 
   // --- Exercise: Display odd numbers backward using while loop ---
