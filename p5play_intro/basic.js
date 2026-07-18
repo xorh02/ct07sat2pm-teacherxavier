@@ -1,4 +1,6 @@
 function setup() {
+
+  
   // write your codes here
   // to print -> console.log("something");
 
@@ -20,5 +22,5 @@ function setup() {
 
 //define draw function
 function draw(){
-  
+
 }
