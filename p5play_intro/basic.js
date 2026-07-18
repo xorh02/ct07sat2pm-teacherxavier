@@ -33,7 +33,8 @@ function setup() {
 
   // --- Exercise: Age category classification ---
   // write your codes here
-  
+  // if(condition){
+  //}
 
 
   // --- Exercise: Display odd numbers backward using while loop ---
@@ -41,7 +42,7 @@ function setup() {
 
 
 
-  
+
   // --- Exercise: Array operations (groceries) ---
   // write your codes here
 }
