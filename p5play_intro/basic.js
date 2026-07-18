@@ -1,6 +1,6 @@
 function setup() {
   //create ur canvas 800 x400
-  new Canvas(800,400)
+  new Canvas(800,400);
   // write your codes here
   // to print -> console.log("something");
 
