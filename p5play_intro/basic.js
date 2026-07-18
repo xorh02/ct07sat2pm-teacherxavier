@@ -21,17 +21,14 @@ function setup() {
   // --- Exercise: Sum of first 10 even numbers ---
   // write your codes here
   //python for loop for i in range(5);
-  // for(let i=0; i<5 ;i++){
-
-  // }  
-  let count=0;
+  // for(let i=0; i<5 ;i++){ }  
   let sum=0;
   for(let i=0;i<=20;++i){
     if(i%2==0){
       sum += i;
     }
   }
-  
+
 
 
 
