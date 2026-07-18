@@ -54,19 +54,13 @@ function setup() {
   // }
   // count++ is the same as count = count + 1
   //first method
-  // let count =19;
-  // while(count >=1){
-  //   console.log(count);
-  //   count -=2;
-  // }
-  //second method
-  let count2 = 19;
-  while(count2 >=1){
-    if(count2 %2 ===1){
-      console.log(count2);
-    }
-    --count2;
+  let count =19;
+  while(count >=1){
+    console.log(count);
+    count -=2;
   }
+ 
+
 
 
   // --- Exercise: Array operations (groceries) ---
