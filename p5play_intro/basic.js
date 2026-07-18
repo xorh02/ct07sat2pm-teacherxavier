@@ -46,6 +46,8 @@ function setup() {
   }else{
     console.log("Secondary");
   }
+  
+  
 
 
   // --- Exercise: Display odd numbers backward using while loop ---
