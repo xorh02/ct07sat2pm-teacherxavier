@@ -29,6 +29,7 @@ function setup() {
     }
   }
   console.log("Sum of first ten even numbers",sum);
+  text("Sum of first ten even numbers"+sum);
 
 
 
