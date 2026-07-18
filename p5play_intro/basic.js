@@ -59,7 +59,11 @@ function setup() {
     console.log(count);
     count -=2;
   }
-
+  //second method
+  let count2 = 19;
+  while(count >=1){
+    if(count%2==1){}
+  }
 
 
   // --- Exercise: Array operations (groceries) ---
