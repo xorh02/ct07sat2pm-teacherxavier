@@ -1,3 +1,6 @@
+
+
+
 function setup() {
   //create ur canvas 800 x400
   new Canvas(800,400);
