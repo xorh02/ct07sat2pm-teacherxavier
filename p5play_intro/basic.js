@@ -66,7 +66,8 @@ function setup() {
   groceries.push("orange");
   groceries.push("butter");
   groceries.shift();
-  console.log()
+  
+  console.log(groceries);
 }
 
 //define draw function
