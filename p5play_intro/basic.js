@@ -53,9 +53,11 @@ function setup() {
   //    action 
   // }
   // count++ is the same as count = count + 1
-  
+  //first method
   let count =19;
-
+  while(count!=1){
+    
+  }
 
 
 
