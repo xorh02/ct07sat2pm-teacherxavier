@@ -55,7 +55,7 @@ function setup() {
   // count++ is the same as count = count + 1
   //first method
   let count =19;
-  while(count!=1){
+  while(count >=-1){
     console.log(count);
     count -=2;
   }
