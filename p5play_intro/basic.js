@@ -63,6 +63,7 @@ function setup() {
   // --- Exercise: Array operations (groceries) ---
   // write your codes here
   let groceries = ["apple","bread","milk"];
+  console.log(groceries);
   groceries.push("orange");
   groceries.push("butter");
   groceries.shift();
