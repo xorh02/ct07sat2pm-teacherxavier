@@ -61,8 +61,10 @@ function setup() {
   }
   //second method
   let count2 = 19;
-  while(count >=1){
-    if(count%2==1){}
+  while(count2 >=1){
+    if(count2%2==1){
+      console.log(count2)
+    }
   }
 
 
