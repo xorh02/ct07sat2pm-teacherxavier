@@ -28,7 +28,7 @@ function setup() {
       sum += i;
     }
   }
-  console.log(,sum)
+  console.log("Sum of first ten even numbers",sum);
 
 
 
