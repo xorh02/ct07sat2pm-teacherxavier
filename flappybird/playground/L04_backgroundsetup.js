@@ -3,7 +3,7 @@ let bird, floor;
 let midflapimg, bg ,base;
 
 function preload(){
-
+    //add in the image link 
     midflapimg = loadImage('');
     bg = loadImage('');
     base = loadImage('');
