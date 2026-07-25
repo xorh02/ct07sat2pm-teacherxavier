@@ -2,6 +2,7 @@
 let bird, floor;
 let midflapimg, bg ,base;
 
+//load assets in (Images)
 function preload(){
     //add in the image link 
     midflapimg = loadImage('redbird-midflap.png');
