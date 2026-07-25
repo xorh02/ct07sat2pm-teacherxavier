@@ -12,7 +12,7 @@ function preload(){
 
 function setup(){
     createCanvas(400,600);
-    background(255);//0-> back 255->white
+    // background(255);//0-> back 255->white
     //variable = new Sprite();
     bird = new Sprite();
     //initialise the properties w,h,x,y
