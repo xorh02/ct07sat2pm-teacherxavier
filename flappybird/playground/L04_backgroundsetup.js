@@ -13,6 +13,7 @@ function preload(){
 function setup(){
     createCanvas(400,600);
     background(255);//0-> back 255->white
+    
 }
 
 function draw(){
