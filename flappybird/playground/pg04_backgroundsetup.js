@@ -1,3 +1,11 @@
 let bird, floor;
 
-let birdimg,
+let midflapimg, bg ,base;
+
+function preload(){
+
+}
+
+function setup(){
+
+}
