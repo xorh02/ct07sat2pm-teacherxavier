@@ -4,7 +4,7 @@ let midflapimg, bg ,base;
 
 function preload(){
     //add in the image link 
-    midflapimg = loadImage('redbird-mi');
+    midflapimg = loadImage('redbird-midflap.png');
     bg = loadImage('');
     base = loadImage('');
 }
