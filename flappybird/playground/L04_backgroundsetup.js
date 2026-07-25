@@ -17,7 +17,9 @@ function setup(){
     bird = new Sprite();
     //initialise the properties w,h,x,y
     bird.x = 200;
-    bird.y
+    bird.y = 300;
+    bird.w = 20;
+    bird.h = 
 }
 
 function draw(){
