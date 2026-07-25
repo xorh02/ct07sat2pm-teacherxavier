@@ -15,7 +15,9 @@ function setup(){
     background(255);//0-> back 255->white
     //variable = new Sprite();
     bird = new Sprite();
-    
+    //initialise the properties w,h,x,y
+    bird.x = 200;
+    bird.y
 }
 
 function draw(){
