@@ -24,5 +24,6 @@ function setup(){
 }
 
 function draw(){
+    //adding the image to the background
     image(bg,0,0,width , height);
 }
