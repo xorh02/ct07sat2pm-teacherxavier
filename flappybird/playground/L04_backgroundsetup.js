@@ -5,8 +5,8 @@ let midflapimg, bg ,base;
 function preload(){
     //add in the image link 
     midflapimg = loadImage('redbird-midflap.png');
-    bg = loadImage('');
-    base = loadImage('');
+    bg = loadImage('background-night.png');
+    base = loadImage('base.png');
 }
 
 function setup(){
