@@ -1,2 +1,11 @@
 // the final game
 //create the two basic function & canvas of size 400 x600 background white
+function setup(){
+
+
+}
+
+
+function draw(){
+    
+}
