@@ -1,3 +1,3 @@
 let bird, floor;
 
-let 
+let birdimg,
