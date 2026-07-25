@@ -3,7 +3,7 @@ let bird, floor;
 let midflapimg, bg ,base;
 
 function preload(){
-    
+    midflapimg = loadImage('');
 }
 
 function setup(){
