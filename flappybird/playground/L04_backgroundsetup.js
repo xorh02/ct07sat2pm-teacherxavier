@@ -19,7 +19,8 @@ function setup(){
     bird.x = 200;
     bird.y = 300;
     bird.w = 20;
-    bird.h = 
+    bird.h = 20;
+    bird.img = midflapimg;
 }
 
 function draw(){
