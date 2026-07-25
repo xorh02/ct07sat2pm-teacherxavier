@@ -18,11 +18,11 @@ function setup(){
     //initialise the properties w,h,x,y
     bird.x = 200;
     bird.y = 300;
-    bird.w = 20;
+    bird.width = 20;
     bird.h = 20;
     bird.img = midflapimg;
 }
 
 function draw(){
-    image(bg,0,0,)
+    image(bg,0,0,width , height);
 }
