@@ -4,6 +4,7 @@ let midflapimg, bg ,base;
 
 function preload(){
     midflapimg = loadImage('');
+    bg = loadImage('')
 }
 
 function setup(){
