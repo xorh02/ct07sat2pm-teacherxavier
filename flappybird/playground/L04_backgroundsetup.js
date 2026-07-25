@@ -19,7 +19,7 @@ function setup(){
     bird.x = 200;
     bird.y = 300;
     bird.width = 20;
-    bird.h = 20;
+    bird.height = 20;
     bird.img = midflapimg;
 }
 
