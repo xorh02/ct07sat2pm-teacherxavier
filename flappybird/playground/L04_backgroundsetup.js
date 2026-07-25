@@ -21,10 +21,12 @@ function setup(){
     bird.width = 20;
     bird.height = 20;
     bird.img = midflapimg;
+    //physics
     bird.collider = 'dynamic';
     bird.mass =2;
     bird.drag = 0.02;
     bird.bounciness = 0.05;
+    //
     world.gravity.y = 10;
 
 }
